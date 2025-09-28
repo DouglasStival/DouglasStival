@@ -12,26 +12,22 @@
 
 ---
 
-## 🚀 Sobre Mim
+# 👋 Olá, eu sou Douglas Stival!
 
-```python
-class DouglasStival:
-    def __init__(self):
-        self.nome = "Douglas Stival"
-        self.formacao = "Cursando Análise e Desenvolvimento de Sistemas"
-        self.atual = [
-            "🎯 Aprendendo automações com Excel e Power BI",
-            "📚 Estudando banco de dados",
-            "🤖 Certificado em Machine Learning"
-        ]
-    
-    def habilidades(self):
-        return {
-            "Linguagens": ["Python", "JavaScript"],
-            "Data Science": ["Machine Learning", "Pandas", "Scikit-learn"],
-            "Ferramentas": ["Power BI", "Excel", "Git"],
-            "Em Aprendizado": ["SQL", "Banco de Dados", "Automações"]
-        }
-    
-    def objetivo(self):
-        return "Desenvolver soluções inteligentes através da tecnologia e análise de dados"
+## 🎓 Cursando Análise e Desenvolvimento de Sistemas
+
+### 🛠️ Tecnologias que Estudo:
+- **Python** 🐍
+- **JavaScript** ⚡  
+- **Machine Learning** 🤖
+- **Power BI** 📊
+- **Excel** 📈
+- **Banco de Dados** 🗄️
+
+### 📫 Contato:
+- **LinkedIn:** [Douglas Stival](https://www.linkedin.com/in/douglas-stival-9a496bba)
+- **E-mail:** douglasstival@outlook.com
+
+---
+
+⭐️ *"Em constante aprendizado e evolução na área de tecnologia!"*
