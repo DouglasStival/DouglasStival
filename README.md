@@ -1,33 +1,48 @@
-<h1 align="center">👋 Olá, eu sou Douglas Stival!</h1>
-<h3 align="center">🎓 Cursando ADS | 🐍 Python | 🤖 Machine Learning | 📊 Power BI & Excel</h3>
+# 👋 Olá, eu sou o Douglas!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SEUEMAIL@outlook.com)
+
+💻 Desenvolvedor em formação | Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Explorando o mundo da **tecnologia, dados e automações**  
+📚 Interesse em **Engenharia de Software e Cibersegurança**  
+☕ Apaixonado por **café, livros e aprendizado contínuo**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/douglas-stival-9a496bba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:douglasstival@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail">
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,excel,powerbi,postgres,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 👋 Olá, eu sou Douglas Stival!
+## 📊 Estatísticas do GitHub
 
-## 🎓 Cursando Análise e Desenvolvimento de Sistemas
-
-### 🛠️ Tecnologias que Estudo:
-- **Python** 🐍
-- **JavaScript** ⚡  
-- **Machine Learning** 🤖
-- **Power BI** 📊
-- **Excel** 📈
-- **Banco de Dados** 🗄️
-
-### 📫 Contato:
-- **LinkedIn:** [Douglas Stival](https://www.linkedin.com/in/douglas-stival-9a496bba)
-- **E-mail:** douglasstival@outlook.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-⭐️ *"Em constante aprendizado e evolução na área de tecnologia!"*
+## 🚀 Sobre mim
+
+- 🎓 Atualmente cursando **ADS**  
+- 🔍 Estudando **Banco de Dados** (SQL, PostgreSQL, MySQL)  
+- 🤖 Criando projetos em **Machine Learning**  
+- 📊 Experiência em **automação com Excel e Power BI**  
+- 🌐 Explorando **GitHub, versionamento e desenvolvimento colaborativo**  
+- 🎯 Objetivo: crescer na área de **Engenharia de Software** e **Banco de Dados**  
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔹 **Modelo de Machine Learning** – primeiros testes de predição  
+ 
+
+---
+
+✨ _Sempre aprendendo, construindo e compartilhando conhecimento._
