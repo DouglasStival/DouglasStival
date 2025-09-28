@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Douglas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SEUEMAIL@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-stival-9a496bba/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:douglasstival@outlook.com)
 
 💻 Desenvolvedor em formação | Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Explorando o mundo da **tecnologia, dados e automações**  
