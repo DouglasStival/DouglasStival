@@ -5,7 +5,7 @@
 
 💻 Desenvolvedor em formação | Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Explorando o mundo da **tecnologia, dados e automações**  
-📚 Interesse em **Engenharia de Software e Cibersegurança**  
+📚 Interesse em **Engenharia de Software ,Cibersegurança Banco de Dados e Macjine Learning**  
 ☕ Apaixonado por **café, livros e aprendizado contínuo**
 
 ---
