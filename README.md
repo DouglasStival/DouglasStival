@@ -5,15 +5,17 @@
 
 💻 Desenvolvedor em formação | Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Explorando o mundo da **tecnologia, dados e automações**  
-📚 Interesse em **Engenharia de Software ,Cibersegurança Banco de Dados e Macjine Learning**  
+📚 Interesse em **Engenharia de Software ,Cibersegurança Banco de Dados e Machine Learning**  
 ☕ Apaixonado por **café, livros e aprendizado contínuo**
 
 ---
 
+
 ## 🛠️ Tecnologias & Ferramentas
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,excel,powerbi,postgres,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,git,github,vscode,tensorflow" />
 </p>
 
 ---
